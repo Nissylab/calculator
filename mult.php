@@ -52,7 +52,7 @@
                 </tr>
                 <tr>
                     <td></td>
-                    <td><button onclick="multclick()" class="btn btn-primary">MLTIPLY</button></td>
+                    <td><button onclick="multclick()" class="btn btn-primary">MuLTIPLY</button></td>
                 </tr>
                 <tr>
                     <td></td>
