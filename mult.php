@@ -56,7 +56,7 @@
                 </tr>
                 <tr>
                     <td></td>
-                    <td> <p id=output></p></td>
+                    <td> <p id="output"></p></td>
                 </tr>
             </table>
 
